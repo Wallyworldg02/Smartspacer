@@ -1,4 +1,4 @@
-# Smartspacer
+implementation 'com.kieronquinn.smartspacer:sdk-plugin:version'# Smartspacer
 
 ![Smartspacer Logo](https://i.imgur.com/CfHF7Dkl.png)
 
